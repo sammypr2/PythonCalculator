@@ -77,5 +77,5 @@ result_button = Button(frame_body, text="=", width=5, height=2, bg=orange, fg=wh
 result_button.place(x=177, y=208)
 
 
-# mainloop
+# main
 window.mainloop()
